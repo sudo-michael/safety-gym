@@ -13,7 +13,7 @@ setup(
     install_requires=[
         'gym~=0.21.0',
         'joblib~=0.14.0',
-        'mujoco_py<2.2,>= 2.1',
+        'mujoco~=2.1.3',
         'numpy~=1.19.5',
         'xmltodict~=0.12.0',
     ],
